@@ -4,6 +4,7 @@
 Code=epiceditor
 Name=Epic Editor
 Description=Markdown editor for Cotonti Siena.
+Category=editor-parser
 Version=0.9
 Date=2013-10-26
 Author=Twiebie
